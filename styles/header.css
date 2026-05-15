@@ -1,0 +1,6 @@
+header {background:var(--bg1); width:calc(100vw-20px); height:50px; margin:10px; padding:10px; display:flex; justify-content:space-between; align-items:center;}
+
+.primary-header {display:flex; align-items:center;}
+.header-img {width:50px; height:50px;}
+
+.nav-link {margin:10px; color:var(--acc); text-decoration:none;}
