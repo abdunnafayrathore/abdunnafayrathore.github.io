@@ -13,12 +13,6 @@
     --txt2: hsl(0, 0%, 30%);
     --txt3: hsl(0, 0%, 50%);
 }
-body.dark {
-    --bg: hsl(210, 40%, 4%);
-
-    --bg1: hsl(210, 30%, 2%);
-    --bg2: hsl(210, 20%, 6%);
-}
 
 * {margin:0;}
 body {background:var(--bg);}
